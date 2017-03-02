@@ -2,7 +2,7 @@
 
 ## Module 4 Deliverables:
 
-* Link to Turing Alumni Portfolio:
+* Link to Turing Alumni Portfolio: [Portfolio](https://github.com/MDes41/portfolios/blob/master/students/1608-back/matt-demarteau/20160201-matt-demarteau-M4.md)
 
 * Link to overview of 6 Cold Outreach emails following this [format](https://github.com/turingschool/professional_skills/blob/master/module_four/outreach_deliverable_guidelines.md): [Gist](https://gist.github.com/MDes41/41169a5768f6012d1d890b5c32829e5f)
 
